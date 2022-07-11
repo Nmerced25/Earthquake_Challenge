@@ -17,9 +17,3 @@ Major Earthquake Data:
 ![image](https://user-images.githubusercontent.com/101299252/178182230-e66ad88f-a050-4ee2-aa81-eb7d08ab9c45.png)
 
 
-
-Additional Map:
-
-
-![image](https://user-images.githubusercontent.com/101299252/178182258-2291c854-1243-48dc-a68a-dacdaff8343a.png)
-
